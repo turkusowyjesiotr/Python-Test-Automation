@@ -1,0 +1,5 @@
+{
+    "base_url": "https://store.steampowered.com/",
+    "languages": ["english", "spanish", "french", "german", "italian", "russian", "japanese", "portuguese", "brazilian"],
+    "game_name": "Dota 2"
+}
